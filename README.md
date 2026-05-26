@@ -36,19 +36,11 @@
 - **Asynchronous Flow:** Kotlin Coroutines
 - **State Management:** Compose States & SnapshotStateLists
 
-## 📱 Screenshots
-
-| Splash Screen | Workout Session | History & Charts |
-| :---: | :---: | :---: |
-| ![Splash](https://via.placeholder.com/200x400?text=Splash+Screen) | ![Workout](https://via.placeholder.com/200x400?text=Active+Workout) | ![Charts](https://via.placeholder.com/200x400?text=Statistics) |
-
-*(Note: Replace placeholders with actual screenshots from the `captures` or `docs` folder)*
-
 ## 🛠 Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/pro-tracker-2026.git
+   git clone https://github.com/XER00xx/training-manager-android.git
    ```
 2. Open the project in **Android Studio (Ladybug or newer)**.
 3. Build and run on your device or emulator.
