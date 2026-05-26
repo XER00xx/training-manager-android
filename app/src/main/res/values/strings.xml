@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Tracker Treningu</string>
+
+    <!-- Nawigacja -->
+    <string name="nav_home">Profil</string>
+    <string name="nav_workout">Trening</string>
+    <string name="nav_exercises">Ćwiczenia</string>
+    <string name="nav_logs">Logi</string>
+    <string name="nav_settings">Ustawienia</string>
+
+    <!-- Kategorie ćwiczeń -->
+    <string name="cat_triceps">Triceps</string>
+    <string name="cat_chest">Klatka</string>
+    <string name="cat_shoulders">Barki</string>
+    <string name="cat_biceps">Biceps</string>
+    <string name="cat_core">Rdzeń</string>
+    <string name="cat_back">Plecy</string>
+    <string name="cat_forearms">Przedramiona</string>
+    <string name="cat_legs">Nogi</string>
+    <string name="cat_glutes">Pośladki</string>
+
+    <!-- Funkcjonalność -->
+    <string name="add_exercise">Dodaj własne ćwiczenie</string>
+    <string name="exercise_name">Nazwa ćwiczenia</string>
+    <string name="save">Zapisz</string>
+    <string name="cancel">Anuluj</string>
+    <string name="add_set">Dodaj serię</string>
+    <string name="finish_workout">Zakończ trening</string>
+    <string name="creator_info">Twórca: Marcin Skorzak</string>
+    <string name="rights_reserved">Wszelkie prawa zastrzeżone © 2026</string>
+
+    <!-- Profil -->
+    <string name="training_days">Dni treningowe</string>
+    <string name="weight_progression">Progres ciężaru</string>
+    <string name="user_goal">Twój cel</string>
+    <string name="set_goal">Ustaw nowy cel</string>
+
+    <!-- Ustawienia -->
+    <string name="theme_selection">Wybierz motyw</string>
+    <string name="theme_light">Jasny</string>
+    <string name="theme_dark">Ciemny</string>
+    <string name="theme_system">Systemowy</string>
+</resources>
